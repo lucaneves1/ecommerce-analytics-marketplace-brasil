@@ -1,4 +1,4 @@
-![Preview do dashboard](docs/preview_dashboard_ecommerce.png)
+![Preview do dashboard](docs/preview_dashboard_ecommerce_2.png)
 
 # Ecommerce Analytics — Marketplace Brasil
 
