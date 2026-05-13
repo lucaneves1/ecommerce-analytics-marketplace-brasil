@@ -7,7 +7,7 @@ Dashboard analítico construído no Looker Studio sobre dados de um marketplace 
 **Projeto desenvolvido para portfólio**, com foco em demonstrar competências em tratamento de dados, modelagem analítica e construção de dashboards profissionais.
 
 🔗 **Dashboard interativo**: [Ver no Looker Studio →](https://datastudio.google.com/s/seoZzmUFPLg)
-📊 **Versão estática (PDF)**: [Baixar o PDF do dashboard](docs/Ecommerce_Analytics___Marketplace_Brasil.pdf)
+📊 **Versão estática (PDF)**: [Baixar o PDF do dashboard](docs/Ecommerce_Analytics_—_Marketplace_Brasil.pdf)
 
 ---
 
